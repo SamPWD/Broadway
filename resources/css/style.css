@@ -6,6 +6,7 @@ h1 {
 }
 .hero {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
 body {
   text-align: center;
@@ -28,4 +29,13 @@ h3 {
 .copy {
   font-family: helvetica;
   font-size: 14px;
+}
+#bottomnav {
+  background-color: dimgray;
+  text-align: left;
+}
+.legal {
+  font-size: 11px;
+  font-family: helvetica;
+  color: white;
 }
